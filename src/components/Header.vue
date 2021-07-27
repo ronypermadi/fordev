@@ -8,7 +8,7 @@
         <!-- <h1 class="navbar-brand navbar-brand-autodark d-none-navbar-horizontal pe-0 pe-md-3"> -->
           <h1 class="navbar-brand navbar-brand d-none-navbar-horizontal pe-0 pe-md-3">
           <router-link to="/">
-            <img src="../../public/dist/img/logo.png" width="110" height="32" alt="Fordev" class="navbar-brand-image"> Fordev
+            <img src="../../public/assets/img/logo.png" width="110" height="32" alt="Fordev" class="navbar-brand-image"> Fordev
           </router-link>
         </h1>
         <div class="navbar-nav flex-row order-md-last">
